@@ -1,10 +1,10 @@
 This document provides information on the provided data. 
 
-There is one .csv file with comma separated data columns and a .pkl (pickle) file.
+There is one **.csv** file with comma separated data columns and a **.pkl** (pickle) file.
 
 Headers explained:
 
-- index:  row index
+- **index**:  row index
 - **period**:  period in seconds [s]
 - **frequency**:  frequency in hertz [Hz]
 - **rlnm_rot_rate**: the RLNM inferred from the NLNM by Petersen (1993) [rad^2/s^2/Hz]
