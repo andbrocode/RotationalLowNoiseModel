@@ -11,7 +11,7 @@ Andreas Brotzer, Heiner Igel, Eléonore Stutzmann, Jean‐Paul Montagner, Felix 
 The provides jupyter notebooks in the subdirectory _notebooks/_ provide the notebooks to create the figures and the required metadata in the article.
 
 **On the data:**
-The data of the prestend rotational low noies models are provided in the subdirectory _data/_ as a .csv and .pkl (pickle) file. Further information on the dataset is provided in a separat document within _data/_.
+The data of the prestend rotational low noies models are provided in the subdirectory _models/_ as a .csv and .pkl (pickle) file. Further information on the dataset is provided in a separat document within _models/_.
 
 
 For further questions, please contact: **andreas.brotzer@lmu.de**
